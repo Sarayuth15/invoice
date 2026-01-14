@@ -21,15 +21,22 @@ const monthNames = [
 // Initialize the image database with some sample data
 let imageDatabase = {
     "2025": {
-        "1": ["img/1.jpg"],
-        "2": ["img/2.jpg"],
-        "3": ["img/3.jpg"],
-        "4": ["img/4.jpg"],
-        "5": ["img/5.jpg"],
-        "6": ["img/6.jpg"]
+        "1": ["img/img_2025/1.jpg"],
+        "2": ["img/img_2025/2.jpg"],
+        "3": ["img/img_2025/3.jpg"],
+        "4": ["img/img_2025/4.jpg"],
+        "5": ["img/img_2025/5.jpg"],
+        "6": ["img/img_2025/6.jpg"],
+        "7": ["img/img_2025/7.jpg"],
+        "8": ["img/img_2025/8.jpg"],
+        "9": ["img/img_2025/9.jpg"],
+        "10": ["img/img_2025/10.jpg"],
+        "11": ["img/img_2025/11.jpg"],
+        "12": ["img/img_2025/12.jpg"]
     },
     "2026": {
         // "3": ["https://picsum.photos/id/244/800/600", "https://picsum.photos/id/243/800/600"],
+        "1": ["img/img_2026/1.jpg"]
     }
 };
 
