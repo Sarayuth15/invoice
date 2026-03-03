@@ -36,7 +36,8 @@ let imageDatabase = {
     },
     "2026": {
         // "3": ["https://picsum.photos/id/244/800/600", "https://picsum.photos/id/243/800/600"],
-        "1": ["img/img_2026/1.jpg"]
+        "1": ["img/img_2026/1.jpg"],
+        "2": ["img/img_2026/2.jpg"]
     }
 };
 
