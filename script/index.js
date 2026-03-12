@@ -49,7 +49,7 @@ function renderMonthsGrid(year) {
 
     let yearData = imageDatabase[year] || {};
     let yearTitle = year === 'all' ? 'All Years' : year;
-    document.getElementById('yearTitle').textContent = `Images from ${yearTitle}`;
+    document.getElementById('yearTitle').textContent = `បញ្ជីវិក្កយបត្រប្រចាំឆ្នាំ  ${yearTitle}`;
 
     // If "All Years" is selected, merge all images from all years
     if (year === 'all') {
@@ -98,7 +98,7 @@ function showImagesForMonth(year, month) {
     // Set modal title
     const monthName = monthNames[parseInt(month) - 1];
     const yearTitle = year === 'all' ? 'All Years' : year;
-    modalTitle.textContent = `Images for ${monthName}, ${yearTitle}`;
+    modalTitle.textContent = `បញ្ជីវិក្កយបត្រប្រចាំខែ ${monthName} ឆ្នាំ ${yearTitle}`;
 
     // Clear existing carousel items
     carouselInner.innerHTML = '';
