@@ -39,7 +39,9 @@ let imageDatabase = {
         "1": ["img/img_2026/1.jpg"],
         "2": ["img/img_2026/2.jpg"],
         "3": ["img/img_2026/3.jpg"],
-        "4": ["img/img_2026/4.jpg"]
+        "4": ["img/img_2026/4.jpg"],
+        "5": ["img/img_2026/5.jpg"],
+        "6": ["img/img_2026/6.jpg"]
     }
 };
 
